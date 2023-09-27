@@ -4,4 +4,9 @@ jonnydipp@192.168.10.120
 [db_servers]
 jonnydipp@192.168.10.142
 
+[file_servers]
+192.168.10.120
+
+[workstations]
+192.168.10.120
 
